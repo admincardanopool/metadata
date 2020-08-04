@@ -1,6 +1,6 @@
 {
 "name": "Cardano Pool Live",
-"description": "High-performing 24/7 Cardano stake pool in the cloud",
+"description": "A high-performing 24/7 stake pool running on a Tier 4 dedicated server",
 "ticker": "CPL",
 "homepage": "https://cardanopool.live"
 }
